@@ -27,7 +27,7 @@ content:
   coordinates:
     latitude: '39.96586'
     longitude: '116.32376'
-  directions: 坐电梯上3楼后右转走廊走到劲头
+  directions: 坐电梯上3楼后右转走廊走到尽头
   office_hours:
     - 'Monday 10:00 to 13:00'
     - 'Wednesday 09:00 to 10:00'
