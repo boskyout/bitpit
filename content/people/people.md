@@ -9,19 +9,20 @@ headless: true
 # Order that this section appears on the page.
 weight: 68
 
-title: Meet the Team
+title: 科研队伍
 subtitle:
 
 content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
-    - Principal Investigators
-    - Researchers
-    - Grad Students
-    - Administration
-    - Visitors
-    - Alumni
+    - 团队带头人
+    - 青年教师
+    - 博士后
+    - 博士研究生
+    - 硕士研究生
+    - 行政人员
+    - 毕业校友
 design:
   show_interests: false
   show_role: true

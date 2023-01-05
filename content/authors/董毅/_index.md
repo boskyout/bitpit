@@ -1,25 +1,25 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: 董毅
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: 北京理工大学特聘教授、光学工程学科带头人
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: 北京理工大学
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - 微波光子技术
+  - 激光测量技术
+  - 高速光纤通信系统
 
 education:
   courses:
@@ -40,16 +40,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: 'mailto:yidong@bit.edu.cn'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,9 +56,13 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - 团队带头人
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+董毅，男，北京理工大学特聘教授，博士生导师，国家级人才计划入选者。所在学科为光学工程，主要从事微波光子学和光相干测量技术方面的研究，主要研究方向为高速光传输与宽带光接入、光电测量技术。
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+研究发表学术论文140余篇，其中SCI收录论文90余篇，他引600余次。申请发明专利4项。先后获国家863计划十五周年先进个人，中国高校十大科技进展，教育部科技成果二等奖。近六年来，主持科研项目11项，总经费2251万元，如国家863计划前沿探索项目，973计划课题，国家自然科学基金重大项目（课题）、科学仪器专项、天文联合项目，航天科技创新（重点）基金等。
+
+2008年教育部新世纪优秀人才，2011年江苏省高层次创新创业人才，2012年入选国家级人才计划。
+
+社会兼职：兼任IEEE（国际电子电工学会）LEOS（Photonics）分会会员，中国光学学会光电专委会理事。

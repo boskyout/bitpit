@@ -9,25 +9,25 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Contact
+title: 联系 Contact
 subtitle:
 
 content:
   # Contact (edit or remove options as required)
 
-  email: test@example.org
-  phone: 888 888 88 88
+  email: weiwei@bit.edu.cn
+  phone: +86-10-68911156
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    street: 中关村南大街5号北京理工大学求是楼305
+    city: 北京
+    region: 海淀区
+    postcode: '100081'
+    country: 中国
+    country_code: CN
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+    latitude: '39.96586'
+    longitude: '116.32376'
+  directions: 坐电梯上3楼后右转走廊走到劲头
   office_hours:
     - 'Monday 10:00 to 13:00'
     - 'Wednesday 09:00 to 10:00'
