@@ -10,7 +10,7 @@ baseURL: 'https://bitpitlab.wowchemy.com/' # Website URL
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: zh-cn
+defaultContentLanguage: zh
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
