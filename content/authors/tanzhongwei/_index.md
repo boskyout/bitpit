@@ -3,7 +3,7 @@
 title: 谈仲纬
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: 预聘助理教授、特别副研究员
@@ -39,7 +39,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:yidong@bit.edu.cn'
+    link: 'mailto:zwtan@bit.edu.cn'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
