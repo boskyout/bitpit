@@ -17,12 +17,12 @@ marketing:
   seo:
     site_type: Organization
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    org_name: '北京理工大学光电学院信息光子技术实验室'
+    description: '北京理工大学信息光子技术实验室专注于微波光子技术、激光测量技术、高速光通信技术的前沿学术研究'
+    # twitter: 'wowchemy'
   analytics:
     google_analytics: ''
-    baidu_tongji: ''
+    baidu_tongji: '061fd48453738c875c47447c3a345ff4'
   verification:
     google: ''
     baidu: ''
