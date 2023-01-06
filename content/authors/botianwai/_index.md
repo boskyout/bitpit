@@ -3,7 +3,7 @@
 title: 薄天外
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: 预聘副教授、特别研究员
